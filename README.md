@@ -10,3 +10,6 @@ Repositório para exemplo da aula de Lab de Desenvolvimento de Sw
 
 
 Caio Parada Oliveira Planinschek **RA:***1240205596*
+- JORGE LUIS DE OLIVEIRA FERRARI 🐀
+- Prof. Paulo Andrade
+- Ryan Costa
